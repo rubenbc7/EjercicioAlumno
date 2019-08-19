@@ -20,12 +20,9 @@ namespace EjercicioAlumno
         {
             Nombre = "Pendiente";
             Matricula = "Sin asignar";
-            Direccion = "pendiente";
-            Telefono = "Sin asignar";
-            Cumple = "Sin asignar";
-          
-            
-
+            Direccion = "Nazas 897";
+            Telefono = "189761";
+            Cumple = "!7 de Mayo de 1998";
         }
 
 

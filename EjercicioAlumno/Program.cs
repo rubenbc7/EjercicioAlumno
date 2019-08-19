@@ -12,15 +12,7 @@ namespace EjercicioAlumno
         {
             Alumno alumno = new Alumno();
 
-            alumno.Nombre = "Ernesto";
-            alumno.Matricula = "189216";
-            alumno.Direccion = "Nazas 897";
-            alumno.Telefono = "1774178";
-            alumno.Cumple = "17 de agosto de 1999";
-
-
-
-
+           
             Console.WriteLine("Alumno: ");
             Console.WriteLine(" ");
             Console.WriteLine("Nombre: " + alumno.Nombre);
