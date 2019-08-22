@@ -20,11 +20,13 @@ namespace EjercicioAlumno
         {
             Nombre = "Pendiente";
             Matricula = "Sin asignar";
-            Direccion = "Nazas 897";
-            Telefono = "189761";
-            Cumple = "!7 de Mayo de 1998";
         }
 
+        public Alumno(string nombre, string matricula)
+        {
+            Nombre = nombre;
+            Matricula = matricula;
+        }
 
     }
 }
